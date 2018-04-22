@@ -2,7 +2,7 @@
 
 This Repository is mainly for the collection, organization and tracking of bugs found by Players of the [DiceHard](https://dicehard.io) game.
 
-If you wish to report an issue without a GitHub Account please click [here](https://gitreports.com/issue/DiceHard-IO/DiceHard).
+You can also report an issue [without a GitHub Account](https://gitreports.com/issue/DiceHard-IO/DiceHard).
 
 ## Reporting a bug/issue
 
